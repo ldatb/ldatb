@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">I'm an Artificial Intelligence Enthusiast and Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/lucasataides?tab=repositories](https://github.com/lucasataides?tab=repositories)
+- 👨‍💻 All of my projects are available at: [https://github.com/lucasataides?tab=repositories](https://github.com/lucasataides?tab=repositories)
 
-- 📫 How to reach me **lucasatab@gmail.com**
+- 📫 How to reach me: **lucasatab@gmail.com**
 
-- ⚡ Fun fact **I have no idea how neural networks do their thing**
+- ⚡ Fun fact: **I have no idea how neural networks do their thing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
